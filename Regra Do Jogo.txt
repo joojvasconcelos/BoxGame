@@ -1,0 +1,2 @@
+Esse jogo foi um trabalho acadêmico, onde dois jogadores se encontram em uma situação que existem 5 caixas, 3 vazias, 1 com uma cobra(se o jogador achar perde)
+ e um com o botão(se o jogador achar ganha). Para começar a maquina escolhe um jogador aleatoriamente para selecionar uma caixa.
